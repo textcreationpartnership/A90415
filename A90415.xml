@@ -1,0 +1,522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A jewell of earthly joy. Or, familie observations. Directing all true-hearted Christians to the keeping of the commandements of God. / By W.P. Very usefull for all Christian families to be read and taught to their children and servants. Dedicated to all that desire to live in the feare of God; shewing their duty to God and man, so much neglected in these latter and worser dayes of sinne and disobedience.</title>
+            <author>W. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90415</idno>
+            <idno type="STC">Wing P130</idno>
+            <idno type="STC">Thomason E1856_2</idno>
+            <idno type="STC">ESTC R210365</idno>
+            <idno type="EEBO-CITATION">99869173</idno>
+            <idno type="PROQUEST">99869173</idno>
+            <idno type="VID">170473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170473)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 231:E1856[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A jewell of earthly joy. Or, familie observations. Directing all true-hearted Christians to the keeping of the commandements of God. / By W.P. Very usefull for all Christian families to be read and taught to their children and servants. Dedicated to all that desire to live in the feare of God; shewing their duty to God and man, so much neglected in these latter and worser dayes of sinne and disobedience.</title>
+                  <author>W. P.</author>
+               </titleStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for Fr. Coles, and are to be sold at the signe of the Lambe in the the Old Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A¹⁰ (-A1).</note>
+                  <note>Annotation on Thomason copy: "march 31"; March 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ten Commandments --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170473:1" rendition="simple:additions"/>
+            <p>A JEWELL OF EARTHLY JOY.</p>
+            <p>OR, <hi>Familie Obſervations.</hi>
+            </p>
+            <p>Directing all true hearted Chriſtians to the keeping of the Commande<g ref="char:EOLhyphen"/>ments of GOD.</p>
+            <p>By <hi>W. P.</hi>
+            </p>
+            <q>
+               <bibl>JOH. 14.15.</bibl>
+               <p>If you love me keep my Commandements.</p>
+            </q>
+            <p>Very uſefull for all Chriſtian Families to be Read and taught to their Chil<g ref="char:EOLhyphen"/>dren and Servants.</p>
+            <p>Dedicated to all that deſire to live in the feare of God; ſhewing their duty to God and Man, ſo much neglected in theſe latter and worſer dayes of Sinne and Diſobedience.</p>
+            <p>LONDON, Printed by <hi>T.F.</hi> for <hi>Pr. Coles,</hi> and ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be ſold at the ſigne of the Lambe in the Old Baily 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:170473:2" rendition="simple:additions"/>
+            <pb facs="tcp:170473:2" rendition="simple:additions"/>
+            <head>FAMILY OBSERVATIONS Upon the X. Commandements.</head>
+            <epigraph>
+               <bibl>EXODVS, <hi>Chap.</hi> XX.</bibl>
+               <q>
+                  <seg rend="decorInit">H</seg>Earken O Iſraell, J am the Lord thy GOD that brought thee out of the land of Aegypt out of the houſe of Bondage. <hi>verſ.</hi> 3.</q>
+            </epigraph>
+            <div n="1" type="part">
+               <head>I. Commandement.</head>
+               <epigraph>
+                  <q>THou ſhalt have no other Gods before me.</q>
+               </epigraph>
+               <p>They breake this Commandement.—
+<list>
+                     <item>That knowes not the true God, looke in the 4th. Cap. of <hi>Jeremy,</hi> verſ. 22.</item>
+                     <item>That denyes God in his heart by denying his Pre<g ref="char:EOLhyphen"/>ſence, Iuſtice, Mercy, <hi>Pſal.</hi> 14.1.</item>
+                     <item>That hates God and ſhewes it by Diſobedience, <hi>Rom.</hi> 1.30. <hi>Exodus</hi> Chapter 20.</item>
+                     <item>That doth not feare God and ſtand in a we of him.</item>
+                     <item>That feare Men or other Creatures more then God, God, <hi>Math.</hi> 10.21. <hi>Apocal.</hi> 21.8.</item>
+                     <item>That live in open ſins ſecurely, not fearing Gods word or judgement, 1 <hi>The ſſalouians,</hi> 5. verſe 6, 7.</item>
+                     <item>That is ſorrowfull for his ſinnes only in reſpect of the Puniſhment, 2 <hi>Corinth.</hi> 7.10.</item>
+                     <item>That feare God by mens Traditions, <hi>Eſay,</hi> 29, 13.</item>
+                     <pb facs="tcp:170473:3"/>
+                     <item> That doth not believe Gods word, but call the Cano<g ref="char:EOLhyphen"/>nic<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll Scripture in queſtion.</item>
+                     <item>That deſpair's of Gods mercy, <hi>Judas</hi> like.</item>
+                     <item>That rate a dead Faith without workes, <hi>Iames</hi> 2.14.</item>
+                     <item>That puts faith in the Devill and his works, as ſeekers to Wizards doe <hi>Levit.</hi> 30.6.</item>
+                     <item>That loves the creatures as Riches, honour and his own fileny ſetſure more then God, <hi>Epheſ.</hi> 5.5.</item>
+                     <item>That puts confidence in his Strength wiſdome, Riches Penutians, 2 <hi>Chron.</hi> 16. chap. <hi>verſ</hi> 9. and 11.</item>
+                     <item>That is impatient under the Croffe <hi>Math</hi> 10.38.</item>
+                     <item>That tempt God, <hi>Math</hi> 4.7.</item>
+                     <item>That ſeck for the things of this Life, more then for Gods Kingdome <hi>Math.</hi> 6.33.</item>
+                     <item>That murmers againſt God, 1 <hi>Corinth.</hi> 10.10.</item>
+                     <item>That diſputes and holds there is no GOD.</item>
+                     <item>That holds and ma<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ntaines Opinions againſt the anti<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> F<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ith ſet downe in the writings of the Prophets and Apoſtles, as did the <hi>Manachees, Donatiſts, Adrians, Annabaptiſts &amp;c.</hi>
+                     </item>
+                     <item>That ſo holds one Religion, as hee is ready to follow another, 1 <hi>Kings</hi> 18.21.</item>
+                     <item>That is full of preſumption of Gods mercy, <hi>Eſay</hi> 7.12.</item>
+                     <item>That falls away from the knowne truth, 2 <hi>Peter</hi> 2.2.</item>
+                     <item>That adds to Canonicall Scripture, <hi>Deut.</hi> 12 <hi>verſ</hi> laſt.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>The II. Commandement. <bibl>
+                     <hi>Exod.</hi> 20.456.</bibl>
+               </head>
+               <epigraph>
+                  <q>THou ſhalt make thee no graven I nage nei<g ref="char:EOLhyphen"/>ther Similitude of things that are in Dea<g ref="char:EOLhyphen"/>ven above, neither that are in Earth beneath,
+<pb facs="tcp:170473:3"/>nor that are in the waters under the Earth then ſhalt not how down to them neither ſerve them, for Jan the Lord the God a ſealous God his fiting the Iniquities of the Fathers vpon the Children vpon the third generation and vpon the fourth of them that hate me. And ſhewing mercy to thouſands to them that love me and keepe my Commandements.</q>
+                  <bibl>
+                     <hi>Leviticus,</hi> 26.18. <hi>and Pſal.</hi> 97.7.</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That Repreſent God in an Image, <hi>Exod.</hi> 32. <hi>ver.</hi> 68.</item>
+                     <item>That worſhips GOD in or at Jmages, as Crueiſixes and ſuch like, 2 <hi>Kings</hi> 18.4. <hi>Levit.</hi> 17.4.</item>
+                     <item>That kneeles downe before an Image, <hi>Exod.</hi> 23.24.</item>
+                     <item>That is bodily preſent at Maſſe, keeping his heart to God, 1 <hi>Corinth.</hi> chapter the 8th.</item>
+                     <item>That retains the monuments of Idolatry, <hi>Exod.</hi> 23.18.</item>
+                     <item>That marrieth with Infidels or ſuch like, <hi>Geneſ.</hi> cap. 6.</item>
+                     <item>That makes Leagues with ſuch, 2 <hi>Chron.</hi> 19. verſ. 1.</item>
+                     <item>That worſhips God according to his owne fancy, <hi>Coloſſians</hi> 2. verſe 23.</item>
+                     <item>That worſhips God with Lip-ſervice, <hi>Eſay</hi> 29.13.</item>
+                     <item>That hath the ſhew of Godlineſs but denies the force of it, 2 <hi>Timoth.</hi> 3.5.</item>
+                     <item>That gives Gods worſhip to Creatures, as Saints and Angels, <hi>Pſalm.</hi> 115.8.</item>
+                     <item>That refuſeth to heare the Preaching of the Goſpell, <hi>Luke,</hi> 14. verſe 19.</item>
+                     <item>That negligently worſhips God, <hi>Revelation</hi> 3.16.</item>
+                     <item>That Invocateth not on Gods name, <hi>Iſaiah,</hi> 64.7.</item>
+                     <pb facs="tcp:170473:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:170473:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:170473:5"/>
+                     <item> That heares Sermons, but when hee is reproved railes and rages, and profits nothing. <hi>Amos</hi> 5.10.</item>
+                     <item>That changeth the worſhip of God in whole or in part, <hi>Deut.</hi> 12.32.</item>
+                     <item>That makes either open or ſecret League with the Divell, <hi>Pſalm</hi> 58.</item>
+                     <item>That uſeth Witchcraft, Sorcery, Inchanrments, <hi>Deut.</hi> 18.11. <hi>Levit</hi> 19.26. <hi>Malachy</hi> 3.5.</item>
+                     <item>That conſults with Wizards, <hi>Levit.</hi> 20.26.</item>
+                     <item>That weares Ammulets or Characters about his neck and puts his Confidence in them.</item>
+                     <item>That hinders Schools of Religion and good Learning.</item>
+                     <item>That ſeeks nothing in the compaſſe of his Calli g, the good Eſtate of Gods Church, but ſeekes his owne things <hi>Pſalm</hi> 132. verſe 3, and 4.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>The III. Commandement.</head>
+               <epigraph>
+                  <q>Thou ſhalt not take the Name of thy Lord thy GOD in vaine; for the Lord will not hold him guiltleſſe that taketh his Name in vaine,</q>
+                  <bibl>
+                     <hi>Exod.</hi> 20. verſe 7. <hi>Levit.</hi> 19.11. <hi>Deut.</hi> 5.11. <hi>Math.</hi> 5.23.</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That unreverently uſe Gods tytles in their talke, <hi>Phi<g ref="char:EOLhyphen"/>lippians</hi> 2.</item>
+                     <item>That Sweares to doe a thing lawfull and good and yet doth it not, <hi>Math.</hi> 5.23.</item>
+                     <item>That Sweares raſhly. <hi>Jeremy</hi> 4.2.</item>
+                     <item>That uſeth cuſtomable Swearing in their common talke, <hi>Math.</hi> 5.37.</item>
+                     <pb facs="tcp:170473:5"/>
+                     <item> That Blaſpheames the Name of God <hi>Levit.</hi> 24.16.</item>
+                     <item>That Sweares falſly. <hi>John</hi> 8.44. <hi>Malachy</hi> 315.</item>
+                     <item>That Sweares againſt Piety and Honeſty.</item>
+                     <item>That uſeth Curſing and Banning. <hi>Levit.</hi> 21. verſe 14.15.16.</item>
+                     <item>That find fault with the Creatures of GOD, 1 <hi>Co<g ref="char:EOLhyphen"/>rinth.</hi> 10.3.</item>
+                     <item>That Sweares by the Creatures, <hi>Math.</hi> 5. verſe the 34. and 35.</item>
+                     <item>That uſeth Lots in ſporting, <hi>Prov.</hi> 16.33. and chap. 18. verſe 18.</item>
+                     <item>That makes and uſeth Charmes of Herbes and other things, <hi>Deut.</hi> 18.11.</item>
+                     <item>That maketh Jeſts of the Sentences and phraſes of the Scripture, <hi>Iſa.</hi> 66.2.</item>
+                     <item>That uſeth Figure caſting, <hi>Iſaiah,</hi> 8.19.</item>
+                     <item>That living diſſolutely in Religion makes Gods name evill ſpoken of, 2 <hi>Samuel,</hi> 12.13. and 1 <hi>Peter</hi> 3. verſe 15.</item>
+                     <item>That doth lightly regard the Iudgments of GOD, <hi>Hebrews</hi> 3.</item>
+                     <item>That makes a Vow of Continency, or of any thing impoſſible or out of his power.</item>
+                     <item>That makes a lawfull Vow and keepes it not, <hi>Deut.</hi> 23.21.</item>
+                     <item>That receives bleſſings from God and is not thank fall; <hi>Luke</hi> 17.8.</item>
+                     <item>That teacheth the truth but doth not himſelſe practiſe it, <hi>Math.</hi> 23.2.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb facs="tcp:170473:6"/>
+               <head>The IIII. Commandement.</head>
+               <epigraph>
+                  <q>REmember the Sabbath day to keepe it hely, ſix dayes thou ſhalt labour and doe thy work but the Seventh day is the Saboth of the Lord thy God, in it thou ſhalt not do any work, thou nor thy Sen nor thy Daughter, thy man<g ref="char:EOLhyphen"/>ſervant nor thy paid-ſervant nor thy Beaſt nor thy Stranger that is within thy Bafes; for in or dapes the Lord mave Deaven and Earth the Sea and all that in them is, and reffed the ſea<g ref="char:EOLhyphen"/>venth day: therefore the Lord bleſſed the Sa<g ref="char:EOLhyphen"/>both day, and hallowed it.</q>
+                  <bibl>
+                     <hi>Exod.</hi> 20.8, 9, 10, 11. and 23.12. <hi>Ezech.</hi> 20.12. <hi>Geneſ.</hi> 2.2. <hi>Levit.</hi> 23.3. </bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That Labour in the ſervile works of their ordina<g ref="char:EOLhyphen"/>ry Calling, <hi>Nehemiah</hi> 13.15.</item>
+                     <item>That travels abroad on his ordinary buſines <hi>Exod</hi> 16.24.</item>
+                     <item>That keeps Fairs &amp; Markets on this day. <hi>Neh.</hi> 13.15.</item>
+                     <item>That works harveſt worke on this day, <hi>Exod.</hi> 34.</item>
+                     <item>That uſeth ſportings and recreations on this Day cau<g ref="char:EOLhyphen"/>ſing diſtractions. 1 <hi>Corinth</hi> 10.7.</item>
+                     <item>That ſpends the day in Idleneſs, <hi>Iſaiah</hi> 58.13.</item>
+                     <item>That keeps the Saboth onely in outward faſhion, <hi>Iſaiah</hi> 1. <hi>verſe</hi> 13.</item>
+                     <item>That prophanes it by Gluttony and Drunkenneſs.</item>
+                     <item>That gives Servants liberty to doe what they liſt and brings not his family to the Congregation to heare Gods word, and to receive the bleſſed Sacrament.</item>
+                     <item>That ſanctifies not the Saboth day in his Family pri<g ref="char:EOLhyphen"/>vately.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <pb facs="tcp:170473:6"/>
+               <head>The V. Commandement.</head>
+               <epigraph>
+                  <q>HOnour the Father and thy Mother that thy daves may be prolanged upon the land which the Lord thy God giveth hee</q>
+                  <bibl>
+                     <hi>Exod.</hi> 20.12. <hi>Deut.</hi> 5.16. <hi>Math</hi> 15.4. <hi>Epheſ</hi> 6.2.</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That Curſeth his Father or Mother, <hi>Exod.</hi> 21.17. <hi>Le<g ref="char:EOLhyphen"/>vit.</hi> 20.9. <hi>Prov.</hi> 20.20. and 15.4. <hi>Mark</hi> 7.10.</item>
+                     <item>That ſmileth his Father or Mother, <hi>Exod.</hi> 21.15.</item>
+                     <item>That mock or revile, or beat thoſe that are their Supe<g ref="char:EOLhyphen"/>riours, <hi>Geoeſis</hi> chapter the 9.</item>
+                     <item>That diſobeys their lawfull Commandement. <hi>Roman</hi> 1.3.</item>
+                     <item>That is unthankfull to Parents and will not relieve them if need be, 2 <hi>Timothy</hi> 3.3.</item>
+                     <item>That diſobeys God to obey them, <hi>Acts</hi> 4.19.</item>
+                     <item>That exalts himſelfe above the Maguſtrates, 2 <hi>Theſſ</hi> 2.9.</item>
+                     <item>That <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erves his Maſter with Eye ſervice, <hi>Colloſ</hi> 3.22.</item>
+                     <item>That governes his Family and thoſe that are under him negli<g ref="char:EOLhyphen"/>gently, thereby loſing that due reſpect due to him from his Servants, 1 <hi>Timoth.</hi> 3.4.</item>
+                     <item>That is ſlacke in Puniſhing faults, 1 <hi>Sam.</hi> 2.22.</item>
+                     <item>That is Regorous in ſpeeches and Puniſhments, thereby diſ<g ref="char:EOLhyphen"/>heartning Inferiours, <hi>Epheſ</hi> 6.9.</item>
+                     <item>That Marrieth without Parents conſent.</item>
+                     <item>That chuſeth his Calling without Parents conſent, <hi>Numb.</hi> 30.</item>
+                     <item>That thinkes better of himſelfe then of others, <hi>Rom</hi> 12.16.</item>
+                     <item>That Deſpiſeth aged Perſons, <hi>Levit</hi> 19.32.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>The VI. Commandement.</head>
+               <epigraph>
+                  <q>THou ſhalt not Kill.</q>
+                  <bibl>
+                     <hi>Exod.</hi> 20.13. <hi>Math.</hi> 5. verſe 21. <hi>Levit.</hi> 24.17.</bibl>
+               </epigraph>
+               <pb facs="tcp:170473:7"/>
+               <p> They breake this Commandement.
+<list>
+                     <item>That beares Malice to another, 1 <hi>Iohn</hi> chapter 3. verſe 5.</item>
+                     <item>That is given to much haſtineſs, <hi>Math.</hi> 5.22.</item>
+                     <item>That uſeth Inward fretting and grudging, <hi>Iames,</hi> 3.14.</item>
+                     <item>That is froward of Nature, and hard to pleaſe, <hi>Romans,</hi> 1.21.</item>
+                     <item>That is full of Rancour and bitterneſs, <hi>Ephef.</hi> 4.31.</item>
+                     <item>That Derides and ſcornes others, <hi>Gevef.</hi> 21.9. <hi>Galath</hi> 4.25.</item>
+                     <item>That uſeth bitter words and Railings, <hi>Proverbs.</hi> 12.18.</item>
+                     <item>That uſeth Contending by words or deeds, <hi>Galoth.</hi> 5.2.</item>
+                     <item>That uſeth Chiding and crying out, <hi>Epheſ.</hi> 4.31.</item>
+                     <item>That is given to make Complaints of his Neigbbours in all places, <hi>Iames</hi> 5.9.</item>
+                     <item>That is a Fighter, <hi>Iames</hi> 41:</item>
+                     <item>That ſhuits or maimes his Neighbours body, <hi>Exod,</hi> 21.12. <hi>Levit</hi> 24. verſe 17.</item>
+                     <item>That will not forgive an offence, <hi>Math.</hi> 5.23.</item>
+                     <item>That cloth fare well himſelfe, and doth not give Almes to the poore diſtreſſed members of Chriſt, <hi>Luke</hi> 16.19.</item>
+                     <item>That will forgive, but as the old Prover be is, not forget, <hi>Levit.</hi> 19.18.</item>
+                     <item>That uſeth Cruelty in puniſhing Malefactors.</item>
+                     <item>That carry Tales from Neighbour to Neighbour, <hi>Levit.</hi> chap. 19. verſe 16.</item>
+                     <item>That denies the Servants, or Labourers wages, <hi>Iames</hi> 5.4. <hi>Levit</hi> 19.3. <hi>Deut</hi> 24.15.</item>
+                     <item>That relieves not the Poore, <hi>Deut.</hi> 15. verſes 7, 8, 9, 10, 11, if hee be of ability.</item>
+                     <item>That holds back the Pledge <hi>Ezechiel,</hi> 18.7.</item>
+                     <item>That putteth to Vſury, <hi>Levit.</hi> 25. verſe 36, 37. <hi>Exod.</hi> 22.25. <hi>Deut.</hi> 15.12. <hi>Prov.</hi> 28.8. <hi>Ezechiell</hi> 18.8. and chap. 22.12.</item>
+                     <item>That ſells by divers Weigh's and Meaſures.</item>
+                     <item>That hates their Brother, <hi>Levit.</hi> 19.17.</item>
+                     <item>That Remeves the Land marke, <hi>Prov.</hi> 22.18. <hi>Deut.</hi> 27.17.</item>
+                     <item>That by his Looſneſs of life is an occaſion why other Sin.</item>
+                     <item>That moves Contention and Debate, <hi>Rom.</hi> 1, verſe 29, 30.</item>
+                     <pb facs="tcp:170473:7"/>
+                     <item> That being a Miniſter teacheth Erroniouſly.</item>
+                     <item>That teacheth ſlackly, <hi>Ieremy</hi> 48.10.</item>
+                     <item>That teacheth not at all, 1 <hi>Timothy</hi> 3.2. and ſo forward.</item>
+                     <item>That hinders mens Salvations any way, <hi>Math,</hi> 23.13.</item>
+                     <item>That ſeekes private Revenge.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>The VII. Commandement.</head>
+               <epigraph>
+                  <q>THou ſhalt not commit Adultery.</q>
+                  <bibl>
+                     <hi>Exod.</hi> 20.14. <hi>Malachy</hi> chap. 3. verſe 5.</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That lookes on a Woman to luſt after her, <hi>Math.</hi> 5.27, 28. <hi>Exod.</hi> 20.14. <hi>Romans</hi> 13.9. <hi>Deut.</hi> 5.18.</item>
+                     <item>That commits Inceſt, <hi>Leviticus,</hi> 18.22. &amp; chap. 20. verſe 13.</item>
+                     <item>That commits Fornication with Married or Single, <hi>Levit.</hi> 18.20.</item>
+                     <item>That uſeth Marriage bed Intemperatly.</item>
+                     <item>That lyeth with a Menſtruous woman, <hi>Ezech.</hi> 18.6. <hi>Levit.</hi> 20.18 &amp; chap. 18.19.</item>
+                     <item>That uſeth Wantonneſs, 1 <hi>Corinth.</hi> 6.9. <hi>Epheſ.</hi> 5.3. <hi>Mark</hi> 7.31. <hi>Epheſ.</hi> 4.29. <hi>Coloſ</hi> 3.5.2 <hi>Theſſal.</hi> 2. verſe 17.</item>
+                     <item>That uſeth occaſions and provecations to Luſt, <hi>Ga<g ref="char:EOLhyphen"/>latians</hi> chap. 5.</item>
+                     <item>That is given to Idleneſs.</item>
+                     <item>That weares wanton and Light attire, 1 <hi>Timothy</hi> 2.9, 10.1 <hi>Peter</hi> 3. verſe 3.</item>
+                     <pb facs="tcp:170473:8"/>
+                     <item> That uſe light Talke and reading of Love bookes, <hi>Galath.</hi> 5. verſe 6, 7.</item>
+                     <item>That frequent Laſcivious places, <hi>Galath.</hi> 5.</item>
+                     <item>That delights in wanton Pictures.</item>
+                     <item>That uſe the mix Dancing of men and women, <hi>Mark</hi> 6.22.</item>
+                     <item>That keepes Company with light ſuſpected perſons, <hi>Prov.</hi> 6. read from Verſe the 6. to the end.</item>
+                     <item>That neglects to diſpoſe his Child en in Marriage in conve<g ref="char:EOLhyphen"/>ment time, 1 <hi>Corinth.</hi> 7.36.</item>
+                     <item>That makes Marriages of young Children.</item>
+                     <item>That puniſheth Adultery with ſmall Puniſhment.</item>
+                     <item>That marrieth more Wives more then One at once, <hi>Geneſ</hi> 2. verſe 24.</item>
+                     <item>That loves his pleaſure more then God, 2 <hi>Timoth</hi> 32.</item>
+                     <item>That takes care to fulfill the Luſts of the Fleſh, <hi>Rom.</hi> 13.14. <hi>Galath</hi> 5.16.1 <hi>Peter,</hi> 2.11.</item>
+                     <item>That maintaines and frequents Stewes, <hi>Deutr.</hi> 23. verſ 17, 18.</item>
+                     <item>That is given to Drunkenneſs and ſurfeiting.</item>
+                     <item>That gives himſelfe to Wine, Sleepe and eaſe, <hi>Prov.</hi> 20.1.13.</item>
+                     <item>That for the avoyding of Fornication marrieth not, 1 <hi>Coriath.</hi> chap. 7. verſe 2.</item>
+                     <item>That puts away his Wife for other cauſes then Fornication, <hi>Math.</hi> 19.9. and chap. 5.32. <hi>Mark</hi> 10.11. <hi>Luke</hi> 16.18. 1 <hi>Corinth.</hi> 7. verſe 11.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="8" type="part">
+               <head>The VIII. Commandement.</head>
+               <epigraph>
+                  <q>THou ſhalt not Steale.</q>
+                  <bibl>(<hi>Exod.</hi> 20. verſe 15.)</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That live in no Calling, 1 <hi>Theſſal.</hi> 4.11.</item>
+                     <item>That defraudeth his Brother, 1 <hi>Theſ.</hi> 4.6.</item>
+                     <item>That neglects his Calling, <hi>Jeremiah</hi> 48.10.</item>
+                     <item>That ſponds his wealth in Ryot and provides not for his family, 1 <hi>Timothy,</hi> 5.8.</item>
+                     <pb facs="tcp:170473:8"/>
+                     <item> That is not content with his eſtate but ſeekes to be rech, 1 <hi>Timoth.</hi> 6.10.</item>
+                     <item>That ſells the goods of the Church or buyes them, <hi>Malachy</hi> 3.8.</item>
+                     <item>That wrongfully keepes back the Hirelings wages, <hi>Malac.</hi> 3.5.</item>
+                     <item>That vexeth or moleſteth the Fatherleſs children, Wi<g ref="char:EOLhyphen"/>dow or Stranger, <hi>Malac.</hi> 3.5.</item>
+                     <item>That ſells ſuch things as are meanes to further Ido<g ref="char:EOLhyphen"/>latry or any other Sin.</item>
+                     <item>That uſeth Powdering, Starching Blawing, Yellow<g ref="char:EOLhyphen"/>ing or darke Shops, to ſet a gloſſe on their wares to make them more ſaleable.</item>
+                     <item>That conceales the fault of their Wares.</item>
+                     <item>That uſeth falſe Weights and meaſures, <hi>Levit.</hi> 19.35, 36.</item>
+                     <item>That uſeth words of deceit, <hi>Prov.</hi> 20.14.</item>
+                     <item>That takes more for their wares then the juſt price, <hi>Math.</hi> 7.12.</item>
+                     <item>That oppreſſe their tenants by racking their Rents, <hi>Habakuk</hi> 2. verſe 11.</item>
+                     <item>That uſeth Ingrocing of wares.</item>
+                     <item>That raiſeth the price in Conſideration of a day of payment.</item>
+                     <item>That either gives or takes Bribes <hi>Iſai.</hi> 1.23. <hi>Pſal.</hi> 82.</item>
+                     <item>That writes Letters of affection in wrong ſuites.</item>
+                     <item>That holds back things borrowed, <hi>Ezech.</hi> 18. verſe 7. <hi>Levit.</hi> 20.18.</item>
+                     <item>That holds back things Pawned or found, <hi>Levit.</hi> 6.3.</item>
+                     <item>That being able of body lives by Begging.</item>
+                     <item>That relieveth any ſuch, 2 <hi>Theſ.</hi> 3.10.</item>
+                     <pb facs="tcp:170473:9"/>
+                     <item> That recompenſeth evill for evill, 1 <hi>Theſ.</hi> 5.15.</item>
+                     <item>That for gaine defends bad Cauſes.</item>
+                     <item>That layes burdens on the people without meaſure, <hi>Iſaiah</hi> 1.23. <hi>Ezech.</hi> 22.27. <hi>Micah</hi> 3.11. <hi>Zeph.</hi> 3. verſe 3.</item>
+                     <item>That ſpends the Church goods in ryot.</item>
+                     <item>That makes Merchandiſe of Gods word and Sacra<g ref="char:EOLhyphen"/>ments, <hi>Micah</hi> 3. verſe 11.2. <hi>Corinth.</hi> 2. verſe the laſt.</item>
+                     <item>That gets goods by Gaming.</item>
+                     <item>That gets his Living by caſting of Figures and by Playes, <hi>Epheſ</hi> 4.28.</item>
+                     <item>That is Envious and full of ſtrife, <hi>Iames</hi> 3.14.</item>
+                     <item>That is raſh in Suretiſhip, <hi>Prov.</hi> 11.15. and chap. 17. verſe 18.</item>
+                     <item>That ſteales mens Children to diſpoſe of them in Marriage, 1 <hi>Timothy.</hi> 1.10.</item>
+                     <item>That takes by ſtealth the leaſt Pin though it bee for the beſt end.</item>
+                     <item>That is a Receiver of things ſtolne, and gives leave to the fact any way, <hi>Romans</hi> 1.29.</item>
+                     <item>That uſeth Deceit in bargaining, 1 <hi>Theſſal.</hi> 4.6.</item>
+                     <item>That reſtores not things evill gotten, <hi>Ezechiel,</hi> chap. 33. verſe 15.</item>
+                     <item>That keepes back goods given to the Church, <hi>Acts</hi> chap. 5. verſe 3.</item>
+                     <item>That waites for a Dearth to ſell his things more dea<g ref="char:EOLhyphen"/>rer, <hi>Amos,</hi> 8. verſe 5.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <pb facs="tcp:170473:9"/>
+               <head>The IX. Commandement.</head>
+               <epigraph>
+                  <q>THou ſhalt not beare falſe witneſſe againſt thy neigbbour,</q>
+                  <bibl>(<hi>Exod.</hi> 10. verſe 16.)</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That envies at the proſperity of his Neigbbour, 1 <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> 6. verſe 4.</item>
+                     <item>That ſeekes onely his owne good report.</item>
+                     <item>That is Suſpitious. 1 <hi>Corinth.</hi> 13.5.</item>
+                     <item>That give harſh raſh ſentence againſt others, <hi>Math.</hi> 7. verſe 1.2.</item>
+                     <item>That takes mens ſayings and doings in the worſt part, <hi>Math.</hi> 26.60.</item>
+                     <item>That accuſeth one falſly, <hi>Math.</hi> 26.60. and 1 <hi>Kings</hi> 21. verſe 13.</item>
+                     <item>That maketh or reporteth Tales openly or in private whiſpering manner. <hi>Levit.</hi> 19.16.</item>
+                     <item>That receiveth Tales, <hi>Exod.</hi> 23.1.</item>
+                     <item>That ſpeakes the truth of meere malice, <hi>Pſalm</hi> 52. verſe 1, 2.</item>
+                     <item>That blazeth abroad mens Infirmities, <hi>Math.</hi> 18. verſe 15, 16, 17.</item>
+                     <item>That uſeth quipping and taunting, <hi>Epheſ.</hi> 5.4. <hi>Mark</hi> 7. verſe 21, 22.</item>
+                     <item>That uſeth Flattery, 26.19.</item>
+                     <item>That lyeth though it bee for never ſo good an end, <hi>Zachary</hi> 13.3.</item>
+                     <item>That defends an evill cauſe, &amp; impugnes the contrary.</item>
+                     <item>That writes or ſpreads Libels.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="10" type="part">
+               <pb facs="tcp:170473:10"/>
+               <head>The X. Commandement.</head>
+               <epigraph>
+                  <q>THou ſhalt not Covet thy Neighbours houſe neither ſhalt thou covet thy neighbours Wiſe, nor his Man-ſervant, nor his Maid nor his Ore, nor his Aſſe, neither any thing that is thy neighbours,</q>
+                  <bibl>
+                     <hi>Exod.</hi> 20. <hi>verſe</hi> 27.</bibl>
+               </epigraph>
+               <p>They breake this Commandement.
+<list>
+                     <item>That thinkes an evill thought againſt their Neigh<g ref="char:EOLhyphen"/>bour, though hee meane not to doe it.</item>
+                     <item>That conceives ſome inward delight in ſome Evill motion though he give not conſent to practiſe it.</item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div type="list_of_sins">
+            <head>Sinnes directly againſt the Goſpell.</head>
+            <p>
+               <hi>Hee ſinnes againſt the Goſpell,—</hi>
+               <list>
+                  <item>That denies Directly or by Conſequence, that Chriſt is come in the Fleſh, 1 <hi>John</hi> 4.3. <hi>Hebrews</hi> 10.29.</item>
+                  <item>That beleeves not the Remiſſion of his owne ſinnes, and acceptation to life Everlaſting. 1 <hi>Iohn</hi> 3.23.</item>
+                  <item>That Repents not but hardens himſelfe in all his bad wayes, <hi>Romans,</hi> 2. verſe 4, 5. <hi>Ieremiah</hi> 8.6. <hi>Iames</hi> 5.3.</item>
+               </list>
+            </p>
+            <p>I Call Heaven and Earth to record this day, that I have ſet before thee Life and Death, Bleſſing and Curſing; therefore chooſe Life that both thou and thy Seed may live, <hi>Deutronomy,</hi> 30.19.</p>
+            <pb facs="tcp:170473:10"/>
+            <p> In that I commanded thee this day to love the Lord thy GOD to walke in his wayes and to keepe his Commandements, and his Ordinances, and his Lawes, that thou mayeſt live and be multiplyed, and that the Lord thy God may bleſſe thee in the Land where thou goeſt to poſſeſſe, <hi>Deutronomy,</hi> chap. 30. verſe 16.</p>
+            <p>And theſe words that I command thee this day ſhall bee in thy heart, and thou ſhalt rehearſe them to thy Children, and ſhalt talke of them when thou tarneſt in thy Houſe, and when thou walkeſt by the way, and when thou lyeſt downe, and when thou riſeſt up.</p>
+            <p>And thou ſhalt bind them for a Signe upon thy hand, and they ſhall bee as Frontlets betweene thy Eyes.</p>
+            <p>Alſo, thou ſhalt write them on the Poſts of thy houſe, and upon thy Gates, <hi>Deutronomy</hi> chap. 6. verſe 6, 7, 8, 9.</p>
+            <p>Let thine heart hold faſt my words, keepe my Com<g ref="char:EOLhyphen"/>mandements and thou ſhalt live, <hi>Prov.</hi> 4.4.</p>
+            <p>Remember the Law of <hi>Moſes</hi> my Servant, which I commanded him in <hi>Horeb</hi> for all Iſraell with the Statutes and the Judgments, <hi>Malachy</hi> 4.4. Read alſo <hi>Galathians</hi> 3.12. <hi>Deut.</hi> 6.15. and Chap. 10. verſe 12, and 13. and Chap. 11.13. <hi>Levit.</hi> chap. 18. verſe 5.</p>
+            <pb facs="tcp:170473:11"/>
+            <p> OH moſt mercifull God and in Chriſt Jeſus to us unworthy Creatures a loving Father, en<g ref="char:EOLhyphen"/>lighten our hearts with thy bleſſed Spirit to the right underſtanding of theſe thy Commandements, and that wee may expreſſe the ſame in our Lives and Converſations, to the ſuppreſſing of all Sinne in en<g ref="char:EOLhyphen"/>deavour and embracing of vertue, to the Glory of thy moſt holy Name, and the Salvation of our owne Soules; grant this for Ieſus Chriſt his ſake, our onely Lord and Saviour, <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
